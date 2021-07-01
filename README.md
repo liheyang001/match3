@@ -1,3 +1,7 @@
+# A mini game using Phaser framework
+very effective framework for small game
+typical match 3 game clone
+
 # Hello World PhoneGap Template [![bitHound Score][bithound-img]][bithound-url]
 
 A PhoneGap Hello World template
